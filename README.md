@@ -1,4 +1,7 @@
 # automated_trading
+
+THIS IS A WORK IN PROGRESS
+
 High Frequency Trading (HFT) done using the Alpaca Trade API and Python.
 STEPS TO RUN:
 1. Aquire an API key and API secret key from "https://docs.alpaca.markets/" 
